@@ -2,16 +2,16 @@
 
 Điền ngắn gọn quá trình làm bài. Có thể thêm hoặc bớt dòng.
 
-- [ x ] 09:00 - Nhận starter repo / accept assignment / fork repo
-- [ x ] 09:05 - Clone repo về máy
-- [ x ] 09:10 - Đọc đề bài và xác định assets
-- [ x ] 09:20 - Hoàn thành CIA mapping
-- [ ] 09:30 - Viết threat / vulnerability / mitigation
-- [ ] 09:40 - Hoàn thành report-1page
-- [ ] 09:45 - Commit lần 1
-- [ ] 09:50 - Chỉnh sửa sau khi tự kiểm
-- [ ] 09:55 - Commit lần 2
-- [ ] 10:00 - Push repo và kiểm tra link nộp
+- [ x ] 10:00 - Nhận starter repo / accept assignment / fork repo
+- [ x ] 10:05 - Clone repo về máy
+- [ x ] 10:10 - Đọc đề bài và xác định assets
+- [ x ] 10:20 - Hoàn thành CIA mapping
+- [ x ] 10:30 - Viết threat / vulnerability / mitigation
+- [ x ] 10:40 - Hoàn thành report-1page
+- [ x ] 10:45 - Commit lần 1
+- [ x ] 10:50 - Chỉnh sửa sau khi tự kiểm
+- [ x ] 10:55 - Commit lần 2
+- [ x ] 11:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
 - Khó khăn gặp phải: 1, Việc phân biệt rõ ràng giữa Mối đe dọa (Threat) và Lỗ hổng (Vulnerability) còn gây nhầm lẫn. Ban đầu em dễ đánh đồng nguyên nhân khách quan và điểm yếu nội tại của hệ thống.2, Lần đầu tiếp cận workflow của GitHub (Clone, Commit, Push) nên còn lúng túng trong việc quản lý các phiên bản (version control) khi làm bài trực tiếp trên Repo.
